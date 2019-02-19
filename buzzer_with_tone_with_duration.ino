@@ -1,5 +1,5 @@
 
-int BUZZER=5; // connect buzzer at pin 5 
+int BUZZER=7; // connect buzzer at pin 7 
 
 void setup() {
 
