@@ -1,3 +1,13 @@
+/*
+*How to operate buzzer by Arduino uno
+*This is a very basic example which will help you to understand basic operation of buzzer using Arduino Uno.
+*
+*for more detail about this project please visit:
+
+*Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
+*for more projects based on Arduino uno please visit: https://arduinounomagic.blogspot.com/
+*/
+
 int BUZZER=7; // connect buzzer at pin 7
 
 void setup() {
