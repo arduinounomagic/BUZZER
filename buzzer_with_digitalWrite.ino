@@ -25,4 +25,4 @@ void loop() {
  digitalWrite(BUZZER, LOW); //turn off buzzer
  
   delay(1000); //delay
- 
+}
